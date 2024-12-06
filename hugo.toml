@@ -31,9 +31,6 @@ languageCode = "en-us"
    category = "categories"
    series = "series"
 
-[taxonomies]
- # year = "years"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
